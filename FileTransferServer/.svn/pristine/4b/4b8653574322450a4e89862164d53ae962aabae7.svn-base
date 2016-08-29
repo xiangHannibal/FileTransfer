@@ -1,0 +1,4 @@
+#接收文件目录
+receive_filepath=/home/receivefile
+#socket监听端口
+socket_port=22222
